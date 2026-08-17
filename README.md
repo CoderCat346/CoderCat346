@@ -33,8 +33,8 @@ I build utility tools that respect your privacy. No big tech, no tracking, just 
 
 I prefer secure and direct communication.
 
-*   📧 **Email:** `your-email@example.com`
-*   ✉️ **Signal:** `your-signal-username`
+*   📧 **Email:** `ma710@naru.to`
+*   ✉️ **Signal:** `AYXX.202`
 
 ---
 *Built with transparency. Hosted on Codeberg.*
