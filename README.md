@@ -15,7 +15,7 @@ I build utility tools that respect your privacy. No big tech, no tracking, just 
 
 </div>
 
-## 🚀 Featured Projects (Dummy)
+## 🚀 Featured Projects
 
 | Project | Description | Tech | 
 | :--- | :--- | :--- |
