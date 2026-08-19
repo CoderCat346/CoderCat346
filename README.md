@@ -33,11 +33,14 @@ I build utility tools that respect your privacy. No big tech, no tracking, just 
 ![Zed](https://img.shields.io/badge/Zed-000000?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
+---
 
 ## 🎓 Education
 
 *   **B.Tech (Bachelor of Technology)** – *Currently pursuing*
 *   **12th Grade** (2023-25)
+
+---
 
 ## Featured Projects
 
@@ -48,14 +51,18 @@ I build utility tools that respect your privacy. No big tech, no tracking, just 
 | **[Quranic-wallpaper](https://farba.codeberg.page/Quranic-wallpaper/)** | A new Quranic phrase at your screen every minute. | Kotlin |
 | **[ScoutR](https://codefloe.com/ma-writes/ScoutR)** | Arguably the first file-type based windows file explorer. | Rust |
 
+---
+
 ## Contributions
 
 Total contributions: 200+/year (across Codeberg, Codefloe and Github)
 
-## Hackathon participations
+### Hackathon participations
 
 * **Smart India Hackathon 2026**
 * * **Opportunity Open Source Conference (OOSC) - 4.0 Hackathon by IIIT, Allahabad**
+
+---
 
 ## 🌐 Contact
 
