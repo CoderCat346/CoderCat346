@@ -1,34 +1,45 @@
+<div align="center">
+
+# ma-writes
+
+</div>
+
 # Resume
+
+<div align="center">
+
 > "Forms follow function." — Le Corbusier
 
 **Focus:** **Automation** | **Optimization** | **Modularization**
 
 I build utility tools that respect your privacy. No big tech, no tracking, just transparent code that works.
 
-## 🛠️ Stack & Tools
-
-<div align="center">
+## Stack & Tools
 
 ### Languages
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Tools and Environment
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Forgejo](https://img.shields.io/badge/Forgejo-1A1A1A?style=flat-square&logo=forgejo&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-000000?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
-</div>
 
-## 🚀 Featured Projects
+## 🎓 Education
+
+*   **B.Tech (Bachelor of Technology)** – *Currently pursuing*
+*   **12th Grade** (2023-25)
+
+## Featured Projects
 
 | Project | Description | Tech | 
 | :--- | :--- | :--- |
@@ -37,17 +48,26 @@ I build utility tools that respect your privacy. No big tech, no tracking, just 
 | **[Quranic-wallpaper](https://farba.codeberg.page/Quranic-wallpaper/)** | A new Quranic phrase at your screen every minute. | Kotlin |
 | **[ScoutR](https://codefloe.com/ma-writes/ScoutR)** | Arguably the first file-type based windows file explorer. | Rust |
 
-## 🎓 Education
+## Contributions
 
-*   **B.Tech (Bachelor of Technology)** – *Currently pursuing*
-*   **12th Grade** – *Completed*
+Total contributions: 200+/year (across Codeberg, Codefloe and Github)
 
-## 📬 Contact
+## Hackathon participations
+
+* **Smart India Hackathon 2026**
+* * **Opportunity Open Source Conference (OOSC) - 4.0 Hackathon by IIIT, Allahabad**
+
+## 🌐 Contact
+
+</div>
 
 I prefer secure and direct communication.
 
-*   📧 **Email:** `ma710@naru.to`
-*   ✉️ **Signal:** `AYXX.202`
+*   ![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=globe&logoColor=white) 'https://ma-writes.codeberg.page/'
+*   ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) `ma710@naru.to`
+*   ![Signal](https://img.shields.io/badge/Signal-3A76F0?style=flat-square&logo=signal&logoColor=white) `AYXX.202`
+
+
 
 ---
 *Built with transparency. Hosted on Codeberg.*
