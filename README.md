@@ -20,14 +20,19 @@ I build utility tools that respect your privacy. No big tech, no tracking, just 
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Tools and Environment
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Cargo](https://img.shields.io/badge/Cargo-A97800?style=flat-square&logo=rust&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Forgejo](https://img.shields.io/badge/Forgejo-1A1A1A?style=flat-square&logo=forgejo&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-000000?style=flat-square)
@@ -55,7 +60,7 @@ I build utility tools that respect your privacy. No big tech, no tracking, just 
 
 ## Contributions
 
-Total contributions: 200+/year (across Codeberg, Codefloe and Github)
+Total contributions: 250+/year (across Codeberg, Codefloe and Github)
 
 ### Hackathon participations
 
