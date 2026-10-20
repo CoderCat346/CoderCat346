@@ -4,7 +4,11 @@
 
 </div>
 
-# Resume
+# Resume 1
+
+i use arch btw
+
+# Resume 2
 
 <div align="center">
 
@@ -24,6 +28,7 @@ I build utility tools that respect your privacy. No big tech, no tracking, just 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Tools and Environment
 
